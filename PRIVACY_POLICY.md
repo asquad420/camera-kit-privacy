@@ -30,7 +30,6 @@ Camera Kit is a desktop application that applies Snapchat lenses to your camera 
 - You can uninstall the app to remove all local data
 
 ## Contact
-For questions about this privacy policy, contact: [Your Email]
-
+For questions about this privacy policy, contact: atfriend14@gmail.com
 ## Changes
 We may update this policy. Check this page for the latest version.
